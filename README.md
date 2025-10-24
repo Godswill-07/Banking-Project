@@ -89,8 +89,8 @@ Total Records: **5,000+ customers**
 ---
 
 ## Dashboard Preview
+![Banking Dashboard by Godswill Douglas](bank_dashboard_godswill_douglas.png)
 
-![Banking Dashboard by Godswill Douglas](Bank%20dashboard%20by%20Godswill%20Douglas.png)
 
 
 ## Conclusion
