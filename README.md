@@ -89,9 +89,8 @@ Total Records: **5,000+ customers**
 ---
 
 ## Dashboard Preview
-*(Insert Power BI dashboard screenshot here)*
 
----  ![Banking-Project](Bank dashboard by Godswill Douglas.png)
+![Banking Dashboard by Godswill Douglas](Bank%20dashboard%20by%20Godswill%20Douglas.png)
 
 ## Conclusion
 This project showcases how structured banking data can be transformed into **actionable insights** through effective data cleaning, analysis, and visualization. It highlights gender trends, financial product performance, and overall customer behavior patterns across the bank’s dataset.
